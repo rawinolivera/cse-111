@@ -1,0 +1,17 @@
+from datetime import datetime, timedelta
+
+current_date = datetime.now()
+one_day = timedelta(days=1)
+
+yesterday = current_date - one_day
+
+print("The time is: " + str(current_date))
+print("Yesterday was: " + str(yesterday))
+
+subtotal = int(input("Tell me the sub-total without taxes: "))
+
+birthday = input('When si your birthday (dd/mm/yyyy)? ')
+
+birthday_date = datetime.strptime(birthday, '%d/%m/%Y')
+print('Birthday: ' + str(birthday_date))
+print("Day of the week: " + str(current_date.weekday()))
