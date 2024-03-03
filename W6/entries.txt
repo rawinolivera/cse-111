@@ -1,0 +1,3 @@
+Fri Feb 23 01:52:00 2024 -> SUBJECT: Advance day 1 DESCRIPTION: First Tasks Completed
+Fri Feb 23 01:52:19 2024 -> SUBJECT: Advance day 2 DESCRIPTION: Second Tasks Completed
+Fri Feb 23 01:52:44 2024 -> SUBJECT: It is working okay DESCRIPTION: The data is being stored in the file
